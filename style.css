@@ -1,0 +1,111 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Montserrat", sans-serif;
+}
+h1 {
+  font-size: 60px;
+}
+.text-color {
+  color: orange;
+}
+h2 {
+  font-size: 40px;
+}
+h3 {
+  font-size: 26px;
+  padding-top: 15px;
+}
+p {
+  color: rgb(80, 80, 80);
+  padding: 20px 0px 20px 0px;
+  line-height: 28px;
+}
+.hero-section {
+  background-image: url(img/top-banner.png);
+  background-repeat: no-repeat;
+  height: 90vh;
+  padding-top: 50px;
+}
+.about-section {
+  background-image: url(img/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  height: 90vh;
+  padding-top: 50px;
+}
+.work-section {
+  background-color: rgb(249, 251, 255);
+  height: 70vh;
+  padding-top: 50px;
+}
+.half-width {
+  width: 40%;
+  margin-left: 5%;
+  padding-left: 2%;
+  float: left;
+}
+.main-img {
+  width: 100%;
+}
+.btn {
+  text-decoration: none;
+  background-image: linear-gradient(90deg, orange, tomato);
+  padding: 15px 30px;
+  color: white;
+  border-radius: 6px;
+}
+.container {
+  padding-top: 200px;
+}
+.full-width {
+  width: 25%;
+  margin-left: 3%;
+  padding: 50px 40px;
+  float: left;
+  box-shadow: 0px 0px 40px rgb(236, 236, 236);
+  border-radius: 20px;
+  background-color: white;
+}
+.work-img {
+  width: 100%;
+}
+.work-heading {
+  text-align: center;
+  padding-bottom: 50px;
+}
+.inry {
+  height: 30vh;
+  background-image: url(img/Group_33094_1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin: 2% 20% 2% 20%;
+  border-radius: 30px;
+}
+.last-head {
+  color: white;
+  margin-top: 120px;
+}
+.last-p {
+  color: rgb(73, 73, 73);
+  text-align: center;
+  font-size
+}
+.last-head3 {
+  text-align: center;
+}
+.last-img{
+  width: 2%;  
+}
+.lastsec{ 
+margin-left:50%
+float: left;
+}
+
+   
+  
+}
+.btn2{
+  margin: 2% 20% 2% 20%; ;
+}
